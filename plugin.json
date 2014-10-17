@@ -1,0 +1,12 @@
+{
+    "ID":"8B1E9F4B4F96474EA509DB3CEC9BEC6C",
+    "ActionKeyword":"zx",
+    "Name":"ZhenXiang",
+    "Description":"真相",
+    "Author":"Ever",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"http://getwox.com",
+    "IcoPath": "",
+    "ExecuteFileName":"main.py"
+}
